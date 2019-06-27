@@ -1,0 +1,25 @@
+C:\Users\ryanb\Desktop\Room Redo\Room Redo\bin\Debug\Room Redo.exe.config
+C:\Users\ryanb\Desktop\Room Redo\Room Redo\bin\Debug\Room Redo.exe
+C:\Users\ryanb\Desktop\Room Redo\Room Redo\bin\Debug\Room Redo.pdb
+C:\Users\ryanb\Desktop\Room Redo\Room Redo\obj\Debug\Room Redo.csprojResolveAssemblyReference.cache
+C:\Users\ryanb\Desktop\Room Redo\Room Redo\obj\Debug\Room_Redo.Doors.resources
+C:\Users\ryanb\Desktop\Room Redo\Room Redo\obj\Debug\Room_Redo.Windows.resources
+C:\Users\ryanb\Desktop\Room Redo\Room Redo\obj\Debug\Room_Redo.Measurements.resources
+C:\Users\ryanb\Desktop\Room Redo\Room Redo\obj\Debug\Room_Redo.Properties.Resources.resources
+C:\Users\ryanb\Desktop\Room Redo\Room Redo\obj\Debug\Room Redo.csproj.GenerateResource.Cache
+C:\Users\ryanb\Desktop\Room Redo\Room Redo\obj\Debug\Room Redo.csproj.CoreCompileInputs.cache
+C:\Users\ryanb\Desktop\Room Redo\Room Redo\obj\Debug\Room Redo.exe
+C:\Users\ryanb\Desktop\Room Redo\Room Redo\obj\Debug\Room Redo.pdb
+C:\Users\ryanb\Desktop\Room Redo - Copy\Room Redo\bin\Debug\Room Redo.exe.config
+C:\Users\ryanb\Desktop\Room Redo - Copy\Room Redo\bin\Debug\Room Redo.exe
+C:\Users\ryanb\Desktop\Room Redo - Copy\Room Redo\bin\Debug\Room Redo.pdb
+C:\Users\ryanb\Desktop\Room Redo - Copy\Room Redo\obj\Debug\Room Redo.csprojResolveAssemblyReference.cache
+C:\Users\ryanb\Desktop\Room Redo - Copy\Room Redo\obj\Debug\Room_Redo.Doors.resources
+C:\Users\ryanb\Desktop\Room Redo - Copy\Room Redo\obj\Debug\Room_Redo.Windows.resources
+C:\Users\ryanb\Desktop\Room Redo - Copy\Room Redo\obj\Debug\Room_Redo.Measurements.resources
+C:\Users\ryanb\Desktop\Room Redo - Copy\Room Redo\obj\Debug\Room_Redo.Properties.Resources.resources
+C:\Users\ryanb\Desktop\Room Redo - Copy\Room Redo\obj\Debug\Room Redo.csproj.GenerateResource.Cache
+C:\Users\ryanb\Desktop\Room Redo - Copy\Room Redo\obj\Debug\Room Redo.csproj.CoreCompileInputs.cache
+C:\Users\ryanb\Desktop\Room Redo - Copy\Room Redo\obj\Debug\Room Redo.exe
+C:\Users\ryanb\Desktop\Room Redo - Copy\Room Redo\obj\Debug\Room Redo.pdb
+C:\Users\ryanb\Desktop\Room Redo - Copy\Room Redo\obj\Debug\Room_Redo.Results.resources

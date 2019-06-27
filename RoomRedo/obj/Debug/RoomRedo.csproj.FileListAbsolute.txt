@@ -1,0 +1,13 @@
+C:\Users\ryanb\Desktop\Room Redo - Copy - Copy\RoomRedo\bin\Debug\Room Redo.exe.config
+C:\Users\ryanb\Desktop\Room Redo - Copy - Copy\RoomRedo\bin\Debug\Room Redo.exe
+C:\Users\ryanb\Desktop\Room Redo - Copy - Copy\RoomRedo\bin\Debug\Room Redo.pdb
+C:\Users\ryanb\Desktop\Room Redo - Copy - Copy\RoomRedo\obj\Debug\RoomRedo.csprojResolveAssemblyReference.cache
+C:\Users\ryanb\Desktop\Room Redo - Copy - Copy\RoomRedo\obj\Debug\RoomRedo.Doors.resources
+C:\Users\ryanb\Desktop\Room Redo - Copy - Copy\RoomRedo\obj\Debug\RoomRedo.Results.resources
+C:\Users\ryanb\Desktop\Room Redo - Copy - Copy\RoomRedo\obj\Debug\RoomRedo.Windows.resources
+C:\Users\ryanb\Desktop\Room Redo - Copy - Copy\RoomRedo\obj\Debug\RoomRedo.Measurements.resources
+C:\Users\ryanb\Desktop\Room Redo - Copy - Copy\RoomRedo\obj\Debug\Room_Redo.Properties.Resources.resources
+C:\Users\ryanb\Desktop\Room Redo - Copy - Copy\RoomRedo\obj\Debug\RoomRedo.csproj.GenerateResource.Cache
+C:\Users\ryanb\Desktop\Room Redo - Copy - Copy\RoomRedo\obj\Debug\RoomRedo.csproj.CoreCompileInputs.cache
+C:\Users\ryanb\Desktop\Room Redo - Copy - Copy\RoomRedo\obj\Debug\Room Redo.exe
+C:\Users\ryanb\Desktop\Room Redo - Copy - Copy\RoomRedo\obj\Debug\Room Redo.pdb
