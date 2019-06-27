@@ -34,6 +34,8 @@ In Visual Studio, click the 'Start' button in the navigation bar at the top of t
 
 ## Deployment
 
+Once the application is up and running, you will be presented with a window form entitled, "Add Room Measurements". On this form, you will be able to add the length, width, and height of the room you are calculating, as well as the measurements you used (either Feet or Metres) to measure the room.
+
 Add additional notes about how to deploy this on a live system
 
 ## Built With
