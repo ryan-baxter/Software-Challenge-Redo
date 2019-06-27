@@ -8,17 +8,21 @@ The next few sections will go over the instructions on how to get the applicatio
 
 ### Prerequisites
 
-In order to get the application working, you will need to install Visual Studio on your machine. This section will cover how to install this software on your machine.
+In order to get the application working, you will need to install Visual Studio on your machine. This section will cover how to install this software on your machine. If you already have Visual Studio installed on your machine, you can skip this section of the file. Use the following link [here](https://visualstudio.microsoft.com/) to get to the Visual Studio website.
 
 #### Step 1
-```
-Go to the Visual Studio webpage and
-[Visual Studio](https://visualstudio.microsoft.com/)
-```
+Use the link provided above to open the Visual Studio website and download the Visual Studio IDE. When you hover over the 'Download Visual Studio' button, download the 'Community 2019' version of Visual Studio.
 
+#### Step 2
+Once the executable file has downloaded, run the file and follow the instructions in order to install Visual Studio on your machine.
+
+#### Step 3
+After the installation process, you will be presented with a selection of 'Web & Cloud' and 'Windows' workloads. Select the option entitled, ".NET desktop development" and click 'Install'.
+
+Once Visual Studio Community 2019 has installed on your machine, you will be able to open and run the application.
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+This section will cover a step by step process on how to install the software application on your machine and get it up and running.
 
 Say what the step will be
 
