@@ -36,7 +36,39 @@ In Visual Studio, click the 'Start' button in the navigation bar at the top of t
 
 Once the application is up and running, you will be presented with a window form entitled, "Add Room Measurements". On this form, you will be able to add the length, width, and height of the room you are calculating, as well as the measurements you used (either Feet or Metres) to measure the room.
 
-Add additional notes about how to deploy this on a live system
+```
+For example, you can enter whole (5, 14, etc.) and decimal (24.6, 2.15, etc.) numbers for each input, except the 'Measurement' field.
+```
+
+Once you have input the length, width, height, and measurement of the room, click 'Next' to move onto the 'Add Windows' form. On this form, you will be able to add the length and width of each window fixture. 
+
+```
+For example, you can enter a whole (5, 14, etc.) or decimal (24.6, 2.15, etc.) number for each fixture.
+```
+
+Each fixture you add will be added to the listbox at bottom of the form, with the surface area of all the walls constantly being displayed and updated with each fixture added.
+
+```
+For example, a surface area of 253 and a fixture of 40 will update the surface area of the walls to 213.
+```
+
+If there you wish to remove the last fixture you added to the listbox, click the 'Remove' button to remove the latest fixture; the area of the removed fixture will be added back to the surface area of the walls and updated. Once you have entered all the window fixtures you need, click the 'Next' button.
+
+The 'Add Doors' form is similar to the previous form; on this form, you can enter the length and width of each door fixture within the room. Each fixture you add will be added to the listbox at bottom of the form, with the surface area of all the walls constantly being displayed and updated with each fixture added. If you added any window fixtures on the previous form, the surface area of the walls (minus the total area of the each window fixture) will be brought across to this form.
+
+```
+For example, if the surface area of the walls was 213, the area of each door fixture will be taken away from this.
+```
+
+Again, if you wish to remove the last fixture you added, click the 'Remove' button to remove the latest fixture; the area of the removed fixture will be added back to the surface area of the walls and updated. Once you have entered all the window fixtures you need, click the 'Next' button.
+
+On the last form (entitled 'Results'), all the calculations you entered will be displayed in a listbox, displaying:
+* The area of the room
+* The volume of the room
+* The surface area of all the walls (excluding the fixtures), and
+* The amount of paint needed to paint the room.
+
+Once you have finished with the application, click the 'Exit' button to close the application.
 
 ## Built With
 
@@ -45,7 +77,3 @@ Add additional notes about how to deploy this on a live system
 ## Authors
 
 * **Ryan Baxter** - [ryan-baxter](https://github.com/ryan-baxter)
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
