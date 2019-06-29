@@ -49,10 +49,10 @@ namespace RoomRedo
                 MessageBox.Show("Please enter the length of the room e.g. 10, 15.4, etc.", "Length Error");
                 return false;
             }
-
-            if (lengthText.Length > 4)
+            
+            if (Convert.ToDouble(lengthText) > 100)
             {
-                MessageBox.Show("Please enter a reasonable length e.g. 10, 15.4, etc.", "Length Error");
+                MessageBox.Show("Please enter a length that is below 100", "Length Error");
                 return false;
             }
 
@@ -78,9 +78,9 @@ namespace RoomRedo
                 return false;
             }
 
-            if (widthText.Length > 4)
+            if (Convert.ToDouble(widthText) > 100)
             {
-                MessageBox.Show("Please enter a reasonable width e.g. 10, 15.4, etc.", "Width Error");
+                MessageBox.Show("Please enter a width that is below 100", "Width Error");
                 return false;
             }
 
@@ -106,9 +106,9 @@ namespace RoomRedo
                 return false;
             }
 
-            if (heightText.Length > 4)
+            if (Convert.ToDouble(heightText) > 100)
             {
-                MessageBox.Show("Please enter a reasonable height e.g. 10, 15.4, etc.", "Height Error");
+                MessageBox.Show("Please enter a height that is below 100", "Height Error");
                 return false;
             }
 
